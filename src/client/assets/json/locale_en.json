@@ -1,0 +1,112 @@
+{
+  "app": {
+    "title": "HOOQ.TV",
+    "description": "Your gateway to a world of unlimited entertainment. Access over 30,000 hours of premium Hollywood and local movies/TV series right at your fingertips."
+  },
+  "header": {
+    "Discover": "Discover",
+    "Movies": "Movies",
+    "TvShows": "TV Shows",
+    "Rent": "Rent"
+  },
+  "status": {
+    "loadError": "Error occurred while loading page:"
+  },
+  "menu": {
+    "Discover": "Discover",
+    "Movies": "Movies",
+    "TvShows": "TV Shows",
+    "Rent": "Rent",
+    "Pricing": "Pricing",
+    "Help": "Help",
+    "DownloadApp": "Download the free App",
+    "Login": "Log in",
+    "Signup": "Sign up",
+    "Logout": "Log out"
+  },
+  "spotlight": {
+    "featuredMovie": "FEATURED MOVIE",
+    "featuredTvShow": "FEATURED TV SHOW",
+    "featuredRental": "FEATURED RENTAL"
+  },
+  "grid": {
+    "seeAll": "See All",
+    "showMore": "Show More"
+  },
+  "tvShowDescription": {
+    "seasonNumber": "Season %{season_number}",
+    "details": "Details",
+    "selectSeason": "Select a season"
+  },
+  "titleBasicInfo": {
+    "numberSeasons": "%{smart_count} Season |||| %{smart_count} Seasons",
+    "noSubtitlesAvailable": "No subtitles available"
+  },
+  "titleDescription": {
+    "director": "Director",
+    "actors": "Actors",
+    "rating": "Rating",
+    "releaseYear": "Release Year"
+  },
+  "downloadApp": {
+    "welcomeTitle": "Welcome to HOOQ",
+    "welcomeText": "Get the app to start watching",
+    "buttonText": "GET THE FREE APP",
+    "continue": "Continue browsing"
+  },
+  "pageNotFound": {
+    "title": "404 - Page not found",
+    "detail": "It’s not the page that’s missing, but the page that’s there that defines me."
+  },
+  "footer": {
+    "termsOfUse": "Terms of Use",
+    "privacyPolicy": "Privacy Policy",
+    "aboutUs": "About Us"
+  },
+  "updateFooter": {
+    "reloadApp": "A new update for HOOQ is available!",
+    "reloadButton": "Update"
+  },
+  "ctaFooter": {
+    "downloadApp": "Download the app to watch",
+    "signUpText": "Your first month is free if you get a monthly plan!",
+    "signUpButton": "Sign up now"
+  },
+  "offlineInfoFooter": {
+    "text": "Oops, looks like you’re offline. Please check your connection."
+  },
+  "pricing": {
+    "title": "PRICING",
+    "SG-PAID30-RECUR-OTT-CC": {
+      "title": "30-day free trial",
+      "asideNote": "Recurring",
+      "item1": "Includes 1 hot and fresh movie rental ticket every month!",
+      "item2": "10,000+ Movies & TV shows",
+      "item3": "SGD8.98 per month after trial ends",
+      "item4": "No commitment, cancel anytime"
+    },
+    "downloadNow": "Download the app to watch",
+    "signUpNow": "Sign up now"
+  },
+  "geoLock": {
+    "sorryWeAre": "Sorry, we’re currently not available in your region.",
+    "content": {
+      "letsGet": "LET’S GET YOU HOOQ’D!",
+      "tenThousand": "10,000 movies and TV series for the price of 1!",
+      "largestSelection": "Largest selection of the best of local and Hollywood hits.",
+      "rentLatest": "Rent latest movies fresh from the cinemas.",
+      "noAds": "No ads!",
+      "anywhereAnytime": "Anywhere, anytime, on any device and download for offline viewing.",
+      "unlimtedEntertainment": "Unlimited entertainment on up to 5 devices.",
+      "cancelAnytime": "Cancel anytime! No hidden charges."
+    },
+    "footer": {
+      "whereToFind": "WHERE TO FIND HOOQ"
+    }
+  },
+  "errorState": {
+    "title": "Oops, something went wrong",
+    "detail": "Check your internet connection or refresh the page.",
+    "refreshButtonText": "REFRESH"
+  }
+}
