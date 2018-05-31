@@ -10,6 +10,7 @@
     "Rent": "Rent"
   },
   "status": {
-    "loadError": "Error occurred while loading page:"
+    "loadError": "Error occurred while loading page:",
+    "newEnglishString": null
   }
 }
