@@ -1,0 +1,17 @@
+{
+    "app": {
+        "title": "HOOQ.TV",
+        "description": "Your gateway to a world of unlimited entertainment. Access over 30,000 hours of premium Hollywood and local movies\/TV series right at your fingertips."
+    },
+    "header": {
+        "Discover": "Penemuan",
+        "Movies": "Film",
+        "TvShows": "Acara TV",
+        "Rent": "Sewa"
+    },
+    "status": {
+        "loadError": "Error occurred while loading page:",
+        "newEnglishString": "",
+        "anotherEnglishString": "String bahasa Inggris lainnya"
+    }
+}
