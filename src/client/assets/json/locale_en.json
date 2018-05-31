@@ -11,6 +11,7 @@
   },
   "status": {
     "loadError": "Error occurred while loading page:",
-    "newEnglishString": null
+    "newEnglishString": null,
+    "anotherEnglishString": "Another English String"
   }
 }
