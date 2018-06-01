@@ -7,7 +7,8 @@
     "Discover": "Discover",
     "Movies": "Movies",
     "TvShows": "TV Shows",
-    "Rent": "Rent"
+    "Rent": "Rent",
+    "NewString": "new"
   },
   "status": {
     "loadError": "Error occurred while loading page:"
