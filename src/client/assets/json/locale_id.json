@@ -11,8 +11,8 @@
         "TvShows": "Acara TV"
     },
     "status": {
-        "fatalError": "Fatal Error",
-        "loadError": "Error occurred while loading page:"
+        "fatalError": "hello",
+        "loadError": "Kesalahan terjadi saat memuat halaman:"
     },
     "titleBasicInfo": {
         "noSubtitlesAvailable": "Tidak ada judul tersedia",
