@@ -11,5 +11,11 @@
   },
   "status": {
     "loadError": "Error occurred while loading page:"
+  },
+  "downloadApp": {
+    "welcomeTitle": "Welcome to HOOQ",
+    "welcomeText": "Get the app to start watching",
+    "buttonText": "GET THE FREE APP",
+    "continue": "Continue browsing"
   }
 }
