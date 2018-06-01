@@ -12,7 +12,7 @@
     },
     "status": {
         "fatalError": "Fatal Error",
-        "loadError": "Error occurred while loading page:"
+        "loadError": "Kesalahan terjadi saat memuat halaman:"
     },
     "titleBasicInfo": {
         "noSubtitlesAvailable": "Tidak ada judul tersedia",
