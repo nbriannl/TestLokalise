@@ -11,5 +11,9 @@
   },
   "status": {
     "loadError": "Error occurred while loading page:"
+  },
+  "titleBasicInfo": {
+    "numberSeasons": "%{smart_count} Season |||| %{smart_count} Seasons",
+    "noSubtitlesAvailable": "No subtitles available"
   }
 }
