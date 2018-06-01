@@ -1,19 +1,19 @@
 {
-  "app": {
-    "title": "HOOQ.TV",
-    "description": "Your gateway to a world of unlimited entertainment. Access over 30,000 hours of premium Hollywood and local movies/TV series right at your fingertips."
-  },
-  "header": {
-    "Discover": "Discover",
-    "Movies": "Movies",
-    "TvShows": "TV Shows",
-    "Rent": "Rent"
-  },
-  "status": {
-    "loadError": "Error occurred while loading page:"
-  },
-  "titleBasicInfo": {
-    "numberSeasons": "%{smart_count} Season |||| %{smart_count} Seasons",
-    "noSubtitlesAvailable": "No subtitles available"
-  }
+    "app": {
+        "description": "Your gateway to a world of unlimited entertainment. Access over 30,000 hours of premium Hollywood and local movies\/TV series right at your fingertips.",
+        "title": "HOOQ.TV"
+    },
+    "header": {
+        "Discover": "Discover",
+        "Movies": "Movies",
+        "Rent": "Rent",
+        "TvShows": "TV Shows"
+    },
+    "status": {
+        "loadError": "Error occurred while loading page:"
+    },
+    "titleBasicInfo": {
+        "noSubtitlesAvailable": "No subtitles available",
+        "numberSeasons": "%{smart_count} Season |||| %{smart_count} Seasons"
+    }
 }
