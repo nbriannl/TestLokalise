@@ -11,7 +11,8 @@
         "TvShows": "TV Shows"
     },
     "status": {
-        "loadError": "Error occurred while loading page:"
+        "loadError": "Error occurred while loading page:",
+        "fatalError": "Fatal Error"
     },
     "titleBasicInfo": {
         "noSubtitlesAvailable": "No subtitles available",
