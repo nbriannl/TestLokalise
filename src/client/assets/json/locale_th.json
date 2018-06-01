@@ -1,15 +1,19 @@
 {
-  "app": {
-    "title": "HOOQ.TV",
-    "description": "Your gateway to a world of unlimited entertainment. Access over 30,000 hours of premium Hollywood and local movies/TV series right at your fingertips."
-  },
-  "header": {
-    "Discover": "ค้นพบ",
-    "Movies": "ภาพยนตร์",
-    "TvShows": "ทีวีซีรีส์",
-    "Rent": "เช่าหนัง"
-  },
-  "status": {
-    "loadError": "Error occurred while loading page:"
-  }
+    "app": {
+        "description": "Your gateway to a world of unlimited entertainment. Access over 30,000 hours of premium Hollywood and local movies\/TV series right at your fingertips.",
+        "title": "HOOQ.TV"
+    },
+    "header": {
+        "Discover": "ค้นพบ",
+        "Movies": "ภาพยนตร์",
+        "Rent": "เช่าหนัง",
+        "TvShows": "ทีวีซีรีส์"
+    },
+    "status": {
+        "loadError": "Error occurred while loading page:"
+    },
+    "titleBasicInfo": {
+        "noSubtitlesAvailable": "ไม่มีคำบรรยายภาพที่มีอยู่",
+        "numberSeasons": "%{smart_count} Season |||| %{smart_count} Seasons"
+    }
 }
