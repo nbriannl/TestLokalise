@@ -16,7 +16,7 @@
         "new": "new"
     },
     "titleBasicInfo": {
-        "noSubtitlesAvailable": "No subtitles available",
+        "noSubtitlesAvailable": "No subtitles available. so Sad",
         "numberSeasons": "%{smart_count} Season |||| %{smart_count} Seasons"
     }
 }
